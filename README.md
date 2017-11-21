@@ -1,4 +1,4 @@
-# Paint-Box-in-C++
+# Paint Box in C++
 This program will provide a black canvas and a one color paint brush ;p to draw and have fun...
 It is a simple study project, I designed it as a project to completely convert it into my customized version of MS-Paint... but never completed it...
 I hope, I'll one day complete it.
@@ -24,5 +24,5 @@ And Enjoy.
 Changes and improvements, and contributions are more than the welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into master! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
 
 # License
-Tic Tac Toe is licensed under the [MIT license.](https://github.com/Shivam010/Paint-Box-in-C-/blob/master/LICENSE)
+Tic Tac Toe is licensed under the [MIT license.](https://github.com/Shivam010/Paint-Box/blob/master/LICENSE)
 
